@@ -95,10 +95,10 @@
 				
 			
 			
-			<!--
+			
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel - Bienvenidos alumnos de 5°
+                    Laravel - Bienvenidos alumnos Estamos editando una rama
                 </div>
 
                 <div class="links">
@@ -111,7 +111,7 @@
                     <a href="https://vapor.laravel.com">Vapor</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
-            </div> -->
+            </div>
         </div>
     </body>
 </html>
